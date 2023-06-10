@@ -1,4 +1,4 @@
-// WAP to Print - 3 digit numer or not ?
+// WAP to Print - 3 digit number or not ?
 //100 to 999
 
 var a = 799;
